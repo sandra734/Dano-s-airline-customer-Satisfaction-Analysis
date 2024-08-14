@@ -1,7 +1,7 @@
 # Dano's Airline-customer-Satisfaction-Analysis
 
 ## Project Overview 
-This project focuses on analyzing customer satisfaction data to identify key drivers of customer happiness and areas for improvement. By examining feedback, survey responses, and other relevant data, the analysis aims to uncover trends, patterns, and insights that can inform strategic decisions. The ultimate goal is to enhance customer experiences, increase loyalty, and improve overall business performance. Key deliverables include visualized reports, actionable recommendations, and a comprehensive understanding of customer sentiment.
+This project focuses on analyzing Dano's Airline customer satisfaction data to identify key drivers of customer happiness and areas for improvement. By examining feedback, survey responses, and other relevant data, the analysis aims to uncover trends, patterns, and insights that can inform strategic decisions. The ultimate goal is to enhance customer experiences, increase loyalty, and improve overall business performance. Key deliverables include visualized reports, actionable recommendations, and a comprehensive understanding of customer sentiment.
 
 ### Data Sources 
 The data used for this analysis is "Airline data - airline_passenger_satisfaction.csv" [View](https://docs.google.com/spreadsheets/d/15Kp-2yfQFNRGJPNOkpMwG-OMX8xVZOJ5VL7f35v7sRQ/edit#gid=1647986900)
